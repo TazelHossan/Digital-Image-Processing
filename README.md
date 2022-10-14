@@ -49,102 +49,132 @@ Installing Tools
 
 
 ## Examples of Work:
-### Experiment-1: Construction of a family tree <br>
-```file name: family_tree.pl``` <br> <br>
-Download PDF from this link (https://github.com/TazelHossan/Artificial-Intelligence/blob/main/Experiments/Experiment_1/Experiment.pdf).<br> <br>
+### Experiment-1: Build in Image Display <br>
+```file name: Build_in_Image_show.py``` <br> <br>
 
-<img src="https://github.com/TazelHossan/Artificial-Intelligence/blob/main/Experiments/Experiment_1/output/Experiment_1.png" width="512" >
+### Experiment-2: External Image Display. <br>
+```file name: IO_image_show.py``` <br> <br>
 
-### Experiment-2: Summation of an integer list & counting the number of elements from that list. <br>
+### Experiment-3: Arithmatic Operation On Image <br>
+```file name: Arithmatic_Operation_On_Image.py``` <br> <br>
 
-```file name: list_count_sum.pl``` <br> <br>
-Download PDF from this link (https://github.com/TazelHossan/Artificial-Intelligence/blob/main/Experiments/Experiment_2/Experiment.pdf).<br> <br>
+### Experiment-4: Image Viewer.<br>
+```folder name: Image_Viewer``` <br> <br>
 
-<img src="https://github.com/TazelHossan/Artificial-Intelligence/blob/main/Experiments/Experiment_1/output/Experiment_2.png" width="512" >
+### Experiment-5: General Histogram of an Image.<br>
+```file name: image_histogram.py``` <br> <br>
 
-### Experiment-3: Construction of a tree of student-teacher-course-year and doing arithmetic operations (sum, subtraction, multiplication, remainder). <br>
+### Experiment-6: Histogram Equalization of an Image.<br>
+```file name: equalize_histogram.py``` <br> <br>
 
-Download PDF from this link (https://github.com/TazelHossan/Artificial-Intelligence/blob/main/Experiments/Experiment_2/Experiment.pdf).<br> <br>
+### Experiment-7: Histogram adjust gamma.<br>
+```file name: adjust_gamma_histogram.py``` <br> <br>
 
+### Experiment-8: Average Filter using 3x3 mask.<br>
+```file name: Avg_filter_3_by_3_mask.py``` <br> <br>
 
+### Experiment-9: Average Filter using 9x9 mask.<br>
+```file name: Avg_filter_9_by_9_mask.py``` <br> <br>
 
-### Experiment-4: Implementing the prolog program for Area of a Circle.<br>
-```file name: area_of_circle.pl``` <br> <br>
-Download PDF from this link (https://github.com/TazelHossan/Artificial-Intelligence/blob/main/Experiments/Experiment_3/Experiment_3.pdf).<br> <br>
-<img src="https://github.com/TazelHossan/Artificial-Intelligence/blob/main/Experiments/Experiment_3/Output/area_of_circle.png" width="512" >
+### Experiment-10: Uniform Filter using 3x3 mask.<br>
+```file name: uniform_filter_3_by_3_mask.py``` <br> <br>
 
+### Experiment-11: High Filter 1.<br>
+```file name: HP_Filter1.py``` <br> <br>
 
+### Experiment-12: High Filter 1.<br>
+```file name: HP_Filter2.py``` <br> <br>
 
-### Experiment-5: Implementing the prolog program for Area of a Triangle.<br>
-```file name: area_of_triangle.pl``` <br> <br>
-Download PDF from this link (https://github.com/TazelHossan/Artificial-Intelligence/blob/main/Experiments/Experiment_3/Experiment_3.pdf).<br> <br>
-<img src="https://github.com/TazelHossan/Artificial-Intelligence/blob/main/Experiments/Experiment_3/Output/area_of_triangle.png" width="512" >
+### Experiment-13: Gaussian Filter with standard deviation 5.<br>
+```file name:Gaussian_Filter_with_standard_deviation_5.py``` <br> <br>
 
-### Experiment-6: Implementing the prolog program for Breadth-first search(BFS).<br>
-```file name: bfs.pl``` <br> <br>
-Download PDF from this link (https://github.com/TazelHossan/Artificial-Intelligence/blob/main/Experiments/Experiment_3/Experiment_3.pdf).<br> <br>
-<img src="https://github.com/TazelHossan/Artificial-Intelligence/blob/main/Experiments/Experiment_3/Output/bfs.png" width="512" >
+### Experiment-14: Gaussian Filter with standard deviation 5.<br>
+```file name:Gaussian_Filter_with_standard_deviation_1.py``` <br> <br>
 
-### Experiment-7: Implementing the prolog program for Breadth-first search(BFS).<br>
-```file name: dfs.pl``` <br> <br>
-Download PDF from this link (https://github.com/TazelHossan/Artificial-Intelligence/blob/main/Experiments/Experiment_3/Experiment_3.pdf).<br> <br>
-<img src="https://github.com/TazelHossan/Artificial-Intelligence/blob/main/Experiments/Experiment_3/Output/dfs.png" width="512" >
+### Experiment-15: Laplacian of Gaussian(LoG) Filter.<br>
+```file name:gaussian_laplace_filter.py``` <br> <br>
 
-### Experiment-8: Implementing the prolog program for Depth First Search (DFS) Algorithm.<br>
-```file name: dfs.pl``` <br> <br>
-Download PDF from this link (https://github.com/TazelHossan/Artificial-Intelligence/blob/main/Experiments/Experiment_3/Experiment_3.pdf).<br> <br>
-<img src="https://github.com/TazelHossan/Artificial-Intelligence/blob/main/Experiments/Experiment_3/Output/dfs.png" width="512" >
+### Experiment-16: DFT on a Grayscale Image.<br>
+```file name: DFT of the Grayscale image.py``` <br> <br>
 
-### Experiment-9: Implementing the prolog program for Factorial of a number.<br>
-```file name: factorial.pl``` <br> <br>
-Download PDF from this link (https://github.com/TazelHossan/Artificial-Intelligence/blob/main/Experiments/Experiment_3/Experiment_3.pdf).<br> <br>
-<img src="https://github.com/TazelHossan/Artificial-Intelligence/blob/main/Experiments/Experiment_3/Output/factorial.png" width="512" >
+### Experiment-17: DFT on an Indexed Color Image.<br>
+```file name: DFT of the indexed color image.py``` <br> <br>
 
-### Experiment-10: Implementing the prolog program for Greatest common divisor (GCD).<br>
-```file name: gcd.pl``` <br> <br>
-Download PDF from this link (https://github.com/TazelHossan/Artificial-Intelligence/blob/main/Experiments/Experiment_3/Experiment_3.pdf).<br> <br>
-<img src="https://github.com/TazelHossan/Artificial-Intelligence/blob/main/Experiments/Experiment_3/Output/gcd.png" width="512" >
+### Experiment-18: DFT on a Cameraman Image.<br>
+```file name: DFT_of_Cameraman_image.py``` <br> <br>
 
 
-### Experiment-11: Implementing the prolog program for Quadratic Equation.<br>
-```file name: quadratic_equation.pl``` <br> <br>
-Download PDF from this link (https://github.com/TazelHossan/Artificial-Intelligence/blob/main/Experiments/Experiment_3/Experiment_3.pdf).<br> <br>
-<img src="https://github.com/TazelHossan/Artificial-Intelligence/blob/main/Experiments/Experiment_3/Output/quadratic.png" width="512" >
+### Experiment-19:Image Geometric(Rotation).<br>
+```file name: DFT of the RGB image.py``` <br> <br>
 
-### Experiment-12: Implementing the prolog program for Bitwise AND, Bitwise OR, Bitwise XOR, Bitwise Left-shift, Bitwise Right shift, Bitwise Complement.<br>
-```file name: bitwise_and.pl``` <br> <br>
-Download PDF from this link (https://github.com/TazelHossan/Artificial-Intelligence/blob/main/Experiments/Experiment_4/Experiment.pdf).<br> <br>
-<img src="https://github.com/TazelHossan/Artificial-Intelligence/blob/main/Experiments/Experiment_4/output/Bitwise.png" width="512" >
 
-### Experiment-13: Implementing the prolog program for N-Queen Problem.<br>
-```file name: n_queens.pl``` <br> <br>
-Download PDF from this link (https://github.com/TazelHossan/Artificial-Intelligence/blob/main/Experiments/Experiment_5/Experiment.pdf).<br> <br>
-<img src="https://github.com/TazelHossan/Artificial-Intelligence/blob/main/Experiments/Experiment_5/output/n_queen.png" width="512" >
+### Experiment-20: DFT on a Cameraman Image.<br>
+```file name: Rotation.py``` <br> <br>
 
-### Experiment-14: Implementing the prolog program for Travelling Salesman Problem (TSP).<br>
-```file name: tavelling_sale.pl``` <br> <br>
-Download PDF from this link (https://github.com/TazelHossan/Artificial-Intelligence/blob/main/Experiments/Experiment_6/Experiment.pdf).<br> <br>
-<img src="https://github.com/TazelHossan/Artificial-Intelligence/blob/main/Experiments/Experiment_5/output/traveling.png" width="512" >
+### Experiment-21: Image Interpolation.<br>
+```file name: Interpolation.py``` <br> <br>
 
-### Experiment-15: Implementing the Python program for Travelling Salesman Problem (TSP) using Genetic Algorithm.<br>
-```file name: TSP(Genetic_Algorithm).py``` <br> <br>
+### Experiment-22: Single thresholding.<br>
+```file name: Single_thresholding.py``` <br> <br>
 
-### Experiment-16: Implementing the Python program for N-Queen Problem using Genetic Algorithm.<br>
-```file name: N_Queen(Genetic_Algorithm).py``` <br> <br>
-Download PDF from this link (https://github.com/TazelHossan/Artificial-Intelligence/blob/main/Experiments/N_Queen(Python)/Experiment.pdf).<br> <br>
 
-### Experiment-17: Implementing the Python program for N-Queen Problem using Back Tracking.<br>
-```file name: N_Queens(Back_Tracking).py``` <br> <br>
+### Experiment-23:Double thresholding.<br>
+```file name: Double_thresholding.py``` <br> <br>
 
-### Experiment-18: Implementing the Python program for N-Queen Problem using BFS.<br>
-```file name: N_Queens(BFS).py``` <br> <br>
 
-### Experiment-19: Implementing the Python program for N-Queen Problem using DFS.<br>
-```Folder name: N_Queens(DFS)``` <br> <br>
+### Experiment-24: Single thresholding using OTSU method.<br>
+```file name: Single_thresholding_otsu.py``` <br> <br>
 
-### Experiment-20: Implementing the Python program for N-Queen Problem using BFS + DFS.<br>
-```Folder name: N_Queens(BFS+DFS)``` <br> <br>
+### Experiment-25: Adaptive thresholding.<br>
+```file name: Adaptive_thresholding.py``` <br> <br>
 
+### Experiment-26: RGB color channels.<br>
+```folder name: Color_Channels``` <br> <br>
+
+### Experiment-27: Color Conversion.<br>
+```folder name: Color_Conversion``` <br> <br>
+
+### Experiment-28: Edge Detection ( Prewitt, Sobel, Roberts).<br>
+```folder name: Edge_Detection_Filters``` <br> <br>
+
+### Experiment-29: Salt and Piper Noise Add and Remove.<br>
+```file name: Salt_Piper_Noise_Add_and_Remove.py``` <br> <br>
+
+### Experiment-30: Spackle Noise Add and Remove.<br>
+```file name: Spackle_Noise_Add_and_Remove.py``` <br> <br>
+
+### Experiment-31: Periodic Noise Add and Remove.<br>
+```file name: Periodic_Noise_Add_and_Remove.py``` <br> <br>
+
+### Experiment-32: Gaussian Noise Add and Remove.<br>
+```folder name: Gaussian_Noise_Add_and_Remove.py``` <br> <br>
+
+### Experiment-33: Edge Detection ( Prewitt, Sobel, Roberts).<br>
+```folder name: Edge_Detection_Filters``` <br> <br>
+
+### Experiment-34: Dilation<br>
+```file name: Dilation.py``` <br> <br>
+
+### Experiment-35: Erosion.<br>
+```file name: Erosion.py``` <br> <br>
+
+### Experiment-36: Opening.<br>
+```file name: Opening.py``` <br> <br>
+
+### Experiment-37: Closing.<br>
+```file name: Closing.py``` <br> <br>
+
+### Experiment-38: Skeletonization.<br>
+```file name: skeleton.py``` <br> <br>
+
+### Experiment-38: Wavelet Transform.<br>
+```file name: discrete_wavelet_transform.py``` <br> <br>
+
+### Experiment-39: region of interest(ROI).<br>
+```file name: ROI.py``` <br> <br>
+
+### Experiment-40: Unsharpe Masking.<br>
+```file name: unsharpe_masking.py``` <br> <br>
 
 ![.https://github.com/TazelHossan/Artificial-Intelligence/edit/main/README.md](https://github.com/EddieJaoudeCommunity/awesome-github-profiles/workflows/.github/workflows/main.yml/badge.svg)
 
