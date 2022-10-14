@@ -176,6 +176,12 @@ Installing Tools
 ### Experiment-40: Unsharpe Masking.<br>
 ```file name: unsharpe_masking.py``` <br> <br>
 
+### Experiment-41: Python Tkinter.<br>
+```folder name: Python_Tkinter``` <br> <br>
+
+### Experiment-42: Some special image effects(oilpainting, ripple, twirl).<br>
+```folder name: Image_Effects``` <br> <br>
+
 ![.https://github.com/TazelHossan/Artificial-Intelligence/edit/main/README.md](https://github.com/EddieJaoudeCommunity/awesome-github-profiles/workflows/.github/workflows/main.yml/badge.svg)
 
 
